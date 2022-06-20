@@ -2,23 +2,25 @@ Algoritmo Punto5
 	definir nombremascota Como Caracter;
 	definir tipoMascota Como Caracter;
 	definir edadMascota Como Entero;
-	definir nombreDueño Como Caracter;
-	definir años Como Entero;
+	definir nombreDueï¿½o Como Caracter;
+	definir aï¿½os Como Entero;
 	
-	escribir "¿cual es el nombre de tu mascota?";
+	escribir "ï¿½cual es el nombre de tu mascota?";
 	leer nombremascota;
 	
-	escribir "¿que tipo de raza es tu mascota?";
+	escribir "ï¿½que tipo de raza es tu mascota?";
 	leer tipoMascota;
 	
-	escribir"¿que edad tiene tu mascota?";
+	escribir"ï¿½que edad tiene tu mascota?";
 	leer edadMascota;
 	
-	escribir "¿cual es tu nombre?";
-	leer nombreDueño;
+	escribir "ï¿½cual es tu nombre?";
+	leer nombreDueï¿½o;
+	
 	
 	
 	limpiar pantalla 
-	escribir " mi mascota se llama ", nombremascota, " es una ", tipoMascota, " el cual tiene ", edadMascota, " y su dueño actual se llama ",nombreDueño;
+	escribir " mi mascota se llama ", nombremascota, " es una ", tipoMascota, " el cual tiene ", edadMascota, " y su dueï¿½o actual se llama ",nombreDueï¿½o;
 
 FinAlgoritmo
+
