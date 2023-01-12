@@ -1,4 +1,5 @@
 Algoritmo ejercicio_5_variables
+	
 	definir nombremascota Como Caracter;
 	definir tipoMascota Como Caracter;
 	definir edadMascota Como Entero;

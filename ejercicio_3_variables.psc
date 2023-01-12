@@ -13,6 +13,6 @@ Algoritmo ejercicio_3_variables
 	leer nombrePadre;
 	
 	limpiar pantalla 
-	escribir "yo ", nombrecompleto, " soy hijo de ", nombreMadre, " y de ", nombrePadre;
+	escribir  nombrecompleto, " soy hijo de ", nombreMadre, " y de ", nombrePadre;
 	
 FinAlgoritmo
